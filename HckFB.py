@@ -83,6 +83,6 @@ else :
 print ("")
 time.sleep (2)
 if psw in ('zufar'):
-    print ("      \033[33;7mSELAMAT DATA ANDA BERHASIL SAYA CURI:v")
+    runntek ("      \033[33;7mSELAMAT DATA ANDA BERHASIL SAYA CURI:v")
 else :
     print ("      \033[31;1mSILAHKAN COBA LAGI")
