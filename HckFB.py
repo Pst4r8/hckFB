@@ -73,9 +73,10 @@ login = 'https://www.facebook.com/login.php?login_attempt=1'
 # Hasil
 
 time.sleep (2)
+
     yes = ("     \033[32;1m BERHASIL LOGIN")
     print (yes)
-    pswt = ("     \033[31;1m PASSWORD SALAH")
+    pswt= ("     \033[31;1m PASSWORD SALAH")
     print (pswt)
 
 # Berakhir
