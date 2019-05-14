@@ -2,7 +2,6 @@
 
 import os
 import sys
-import mechanize
 import time
 
 os.system('clear')
@@ -39,10 +38,10 @@ def cover():
     print (GG+"  +============================================+")
     print (RR+"  +   **********  HACK FACEBOOK  ***********   +")
     print (GG+"  +============================================+")
-    print (GL+"  +             MOD BY : ZUFAR AL              +")
+    print (GL+"  +               MOD BY : PSTAR7              +")
     print (YY+"  +             BACALAH BASMALLAH              +")
-    print (B+ "  +            FACEBOOK : Zufar AL             +")
-    print (Y+ "  +            INSTAGRAM: zufar_al             +")
+    print (B+ "  +         TAK ADA YG TIDAK MUNGKIN           +")
+    print (Y+ "  +             SEMUA BUTUH PROSES             +")
     print (G+ "  +--------------------------------------------+")
     print (C+ "  +   ********  LIFE OF PROGRAMER  *********   +")
     print (R+ "  +--------------------------------------------+")
@@ -73,14 +72,11 @@ login = 'https://www.facebook.com/login.php?login_attempt=1'
 # Hasil
 
 time.sleep (2)
-
-    yes = ("     \033[32;1m BERHASIL LOGIN")
-    print (yes)
-    pswt= ("     \033[31;1m PASSWORD SALAH")
-    print (pswt)
+yap = ("     \033[32;1m BERHASIL LOGIN")
+print (yap)
 
 # Berakhir
 
 print ("")
 time.sleep (2)
-    runntek ("      \033[33;7mSELAMAT DATA ANDA BERHASIL SAYA CURI:v")
+runntek ("      \033[33;7mSELAMAT DATA ANDA BERHASIL SAYA CURI:v")
