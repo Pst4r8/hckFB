@@ -73,16 +73,12 @@ login = 'https://www.facebook.com/login.php?login_attempt=1'
 # Hasil
 
 time.sleep (2)
-if psw in ('zufar'):
     print ("     \033[32;1m BERHASIL LOGIN")
-else :
     print("     \033[31;1m PASSWORD SALAH")
 
 # Berakhir
 
 print ("")
 time.sleep (2)
-if psw in ('zufar'):
     runntek ("      \033[33;7mSELAMAT DATA ANDA BERHASIL SAYA CURI:v")
-else :
     print ("      \033[31;1mSILAHKAN COBA LAGI")
