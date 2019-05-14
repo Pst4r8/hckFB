@@ -38,7 +38,7 @@ def cover():
     print (GG+"  +============================================+")
     print (RR+"  +   **********  HACK FACEBOOK  ***********   +")
     print (GG+"  +============================================+")
-    print (GL+"  +               MOD BY : PSTAR7              +")
+    print (GL+"  +              MOD BY : PSTAR7               +")
     print (YY+"  +             BACALAH BASMALLAH              +")
     print (B+ "  +         TAK ADA YG TIDAK MUNGKIN           +")
     print (Y+ "  +             SEMUA BUTUH PROSES             +")
